@@ -128,7 +128,7 @@ La red usa **Global Average Pool (1×1)** → compatible con MPS (evita el error
 
 Incluyo una **notebook** autocontenida para entrenar y evaluar el DQN de Snake en modo script:
 
-- **Archivo:** `Snake_DQN_Notebook.ipynb`  
+- **Archivo:** `snake_DQN_notebook.ipynb` en el directorio `notebooks/` 
 - **Instalar:** `pip install torch matplotlib numpy`  
 - **Contenido:** entorno `SnakeEnv`, red `DQNCNN` con **GlobalAvgPool**, **Replay Buffer**, **Target Network**,  
   entrenamiento configurable, **gráfico de convergencia (MA=50)**, evaluación **greedy** y guardado de pesos `.pth`.
@@ -137,11 +137,11 @@ Incluyo una **notebook** autocontenida para entrenar y evaluar el DQN de Snake e
 
 ---
 
-## 📦 Estructura sugerida
+## 📦 Estructura
 
 ```
 .
-├─ app_gridworld.py                 # App Streamlit (GridWorld: entrenar, política, convergencia, animación)
+├─ app_gridworld.py                # App Streamlit (GridWorld: entrenar, política, convergencia, animación)
 ├─ app_snake_streamlit.py          # App Streamlit (Snake: Manual, Entrenar DQN, Inferencia DQN)
 ├─ README.md                       # Este documento
 ├─ requirements.txt                # Dependencias mínimas (ver más abajo)
