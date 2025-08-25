@@ -163,32 +163,35 @@ torch
 
 ---
 ## 📲 DEMO
-### Gridworld
-Q-Learning
-https://github.com/user-attachments/assets/e43393a0-fb35-47c5-992d-458d61045b78
 
-Sarsa
-https://github.com/user-attachments/assets/a5a396e9-16d9-41de-85e9-6bff895407f9
+### GridWorld
 
-Montecarlo ES
-https://github.com/user-attachments/assets/d7d9f423-cef5-4353-89fe-c80662144083
+**Q-Learning**  
+<video src="https://github.com/user-attachments/assets/e43393a0-fb35-47c5-992d-458d61045b78" controls muted playsinline width="640"></video>
 
-Montecarlo IS (Weighted)
-https://github.com/user-attachments/assets/4b6f3944-9729-4d34-97e4-852b4c7a1f74
+**SARSA**  
+<video src="https://github.com/user-attachments/assets/a5a396e9-16d9-41de-85e9-6bff895407f9" controls muted playsinline width="640"></video>
 
-Montecarlo IS (Ordinary)
-https://github.com/user-attachments/assets/87ac4d14-5cb7-4539-b749-e94a4f5d5875
+**Monte Carlo ES**  
+<video src="https://github.com/user-attachments/assets/d7d9f423-cef5-4353-89fe-c80662144083" controls muted playsinline width="640"></video>
+
+**MC-IS (Weighted)**  
+<video src="https://github.com/user-attachments/assets/4b6f3944-9729-4d34-97e4-852b4c7a1f74" controls muted playsinline width="640"></video>
+
+**MC-IS (Ordinary)**  
+<video src="https://github.com/user-attachments/assets/87ac4d14-5cb7-4539-b749-e94a4f5d5875" controls muted playsinline width="640"></video>
 
 ### Snake + CNN + DQN
 
-Entrenamiento
-https://github.com/user-attachments/assets/b38e6297-cefe-4b09-bf5f-c573e945a1a7
+**Entrenamiento**  
+<video src="https://github.com/user-attachments/assets/b38e6297-cefe-4b09-bf5f-c573e945a1a7" controls muted playsinline width="640"></video>
 
-Inferencia (auto-play)
-https://github.com/user-attachments/assets/5698602a-85bc-481a-b4e0-6417417a46ac
+**Inferencia (auto-play)**  
+<video src="https://github.com/user-attachments/assets/5698602a-85bc-481a-b4e0-6417417a46ac" controls muted playsinline width="640"></video>
 
-Manual
-https://github.com/user-attachments/assets/f9fefeab-c787-423e-b523-af514415ca4d
+**Manual**  
+<video src="https://github.com/user-attachments/assets/f9fefeab-c787-423e-b523-af514415ca4d" controls muted playsinline width="640"></video>
+
 
 
 ## 🛠️ Troubleshooting (GridWorld + Snake)
